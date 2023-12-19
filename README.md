@@ -6,7 +6,7 @@
 ## BUSINESS PLAN
 Objective: To establish Microsoft Studios as a successful player in the film industry by leveraging data insights to produce commercially successful movies.
 
-Relevance to CEO's Goals:
+Relevance to CEO's Goals.
 
 Box Office Performance: Understanding the box office success of different genres helps in identifying lucrative segments. Audience Preferences: Analyzing audience ratings helps in understanding the type of movies that resonate with viewers. Critical Reviews: Examining critical reviews aids in gauging the quality and reception of various movie genres. 2. Insights for Decision Making: Actionable Insights for CEO:
 
@@ -14,7 +14,6 @@ Genre Preferences: Identify the most successful genres at the box office. Audien
 
 Genre Selection: Focus on producing movies in genres that show high box office performance, audience engagement, and critical acclaim. Investment Strategy: Allocate resources towards genres with high potential for financial returns and audience appeal. Franchise Development: Consider creating a series of movies within a connected universe to build anticipation and audience loyalty. Talent Acquisition: Collaborate with established filmmakers, directors, and writers associated with successful genres.
 
-Selection deleted
 ## DATA UNDERSTANDING
 
 
